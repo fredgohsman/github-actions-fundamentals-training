@@ -5,7 +5,7 @@ This repository is the landing page for the GitHub Actions Fundamentals training
 ## Demo Repositories
 
 1. Create a new Repository
-2. [Custom Actions](https://github.com/ps-actions-sandbox/demo-custom-actions)
+2. [Custom Actions](https://github.com/US-SouthOU-Demo/gha-demo-custom-actions)
 3. CI/CD demo
 
 
