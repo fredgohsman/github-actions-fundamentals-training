@@ -5,7 +5,12 @@ This repository is the landing page for the GitHub Actions Fundamentals training
 ## Demo Repositories
 
 1. Create a new Repository
-2. [Custom Actions](https://github.com/US-SouthOU-Demo/gha-demo-custom-actions)
-3. CI/CD demo
+2. [Custom JavaScript Action Example](https://github.com/msfred/star-wars-name-action)
+3. [Custom Composite Action Example](https://github.com/msfred/deploy-infra-webapp)
+4. [CI/CD & IaC with Bicep Example](https://github.com/msfred/github-actions-bicep)
 
+## Additional Samples
+[GitHub Actions ABCs](https://github.com/githubabcs/gh-abcs-actions)
+
+[GitHub Public Roadmap](https://github.com/orgs/github/projects/4247)
 
