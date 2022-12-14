@@ -14,3 +14,4 @@ This repository is the landing page for the GitHub Actions Fundamentals training
 
 [GitHub Public Roadmap](https://github.com/orgs/github/projects/4247)
 
+[JavaScript Action Template](https://github.com/actions/javascript-action)
