@@ -22,3 +22,4 @@ This repository is the landing page for the GitHub Actions Fundamentals training
 [GitHub Actions Toolkit](https://github.com/actions/toolkit)
 
 [JavaScript Action Template](https://github.com/actions/javascript-action)
+
